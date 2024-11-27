@@ -1,4 +1,4 @@
-# Scanuser
+# User Database
 This is a simple script that allows you to search for usernames. It provides an easy and efficient way to find specific usernames from a given name.
 
 <img src="https://telegra.ph/file/8c27e7e6c847a98072961.jpg">
@@ -7,16 +7,17 @@ This is a simple script that allows you to search for usernames. It provides an 
 ## Features
 - Search usernames based on specific keywords
 - Highlight matched usernames for easy identification
+
 ## Installation
 
 Clone this repository
 
 ```
-git clone https://github.com/thedeveloper03/scanuser
+git clone https://github.com/pixelPusher03/user-database
 ```
 navigate to the directory
 ```
-cd scanuser
+cd User-database
 ```
 Give access to the scanuser 
 ```
