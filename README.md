@@ -29,7 +29,7 @@ bash scanuser.sh
 ```
 
 ## Credits
-This script was created by[thedeveloperofc](github.com/thedeveloperofc). Feel free to provide feedback or suggestions for improvements.
+This script was created by[Saca Tech Inc](github.com/sacatechinc). Feel free to provide feedback or suggestions for improvements.
 
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this script for any purpose. Please refer to the LICENSE file for more details.
