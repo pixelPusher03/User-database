@@ -1,6 +1,6 @@
 #in progress 
 #!/bin/bash
-
+clear
 banner() {
 
 printf "\n╭━━━╮╱╱╱╱╱╱╱╱╭╮╱╭┳━━━┳━━━┳━━━╮"
